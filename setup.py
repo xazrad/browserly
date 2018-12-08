@@ -4,13 +4,13 @@ from distutils.core import setup
 setup(
     name='browserly',
     packages=['browserly'],
-    version='0.0.2',
+    version='0.0.3',
     license='MIT',
     description='App browserly',
     author='xazrad',
     author_email='xazrad@gmail.com',
     url='https://github.com/xazrad/browserly',
-    download_url='',
+    download_url='https://github.com/xazrad/browserly/archive/0.0.3.tar.gz',
     keywords=[],
     install_requires=[
         'click',
